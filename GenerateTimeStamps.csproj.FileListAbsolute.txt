@@ -1,0 +1,27 @@
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.Properties.Resources.resources
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.csproj.GenerateResource.Cache
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe.config
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.pdb
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.pdb
+C:\Users\astewa12\Google Drive\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.csprojResolveAssemblyReference.cache
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe.config
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.pdb
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.pdb
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.csprojResolveAssemblyReference.cache
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.Properties.Resources.resources
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.csproj.GenerateResource.Cache
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe.config
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.pdb
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.csprojResolveAssemblyReference.cache
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.Properties.Resources.resources
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.csproj.GenerateResource.Cache
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\GenerateTimeStamps\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.pdb
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\GenerateTimeStamps.exe.config
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\GenerateTimeStamps\GenerateTimeStamps\obj\Debug\GenerateTimeStamps.pdb

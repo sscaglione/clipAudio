@@ -1,0 +1,17 @@
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\GenerateTimeStamps\GenerateTimeStamps\bin\Debug\Clip-CSL3.exe.config
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-CSL3.exe.config
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-CSL3.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-CSL3.pdb
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip_CSL3.Properties.Resources.resources
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.csproj.GenerateResource.Cache
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.exe
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.pdb
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-CSL3.exe.config
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.exe
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.pdb
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-CSL3.exe
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-CSL3.pdb
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip_CSL3.Properties.Resources.resources
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-CSL3.csproj.GenerateResource.Cache

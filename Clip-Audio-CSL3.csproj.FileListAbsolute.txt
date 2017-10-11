@@ -1,0 +1,16 @@
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-Audio-CSL3.exe.config
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-Audio-CSL3.exe
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\bin\Debug\Clip-Audio-CSL3.pdb
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip_Audio_CSL3.Properties.Resources.resources
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.csproj.GenerateResource.Cache
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.exe
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-CSL3\Clip-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.pdb
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\bin\Debug\Clip-Audio-CSL3.exe.config
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.exe
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.pdb
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\bin\Debug\Clip-Audio-CSL3.exe
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\bin\Debug\Clip-Audio-CSL3.pdb
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\obj\Debug\Clip_Audio_CSL3.Properties.Resources.resources
+C:\Users\Samantha\Documents\Spring 2017\Research\Clip-Audio-CSL3\Clip-Audio-CSL3\Clip-CSL3\obj\Debug\Clip-Audio-CSL3.csproj.GenerateResource.Cache
